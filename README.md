@@ -74,11 +74,6 @@ Use or adapt this project as you like. Add a LICENSE file to declare a formal li
 
 ---
 
-If you want this README to be shorter or to include screenshots and usage examples, tell me what to add and I will update it.
-=======
-# React.js and Tailwind CSS Assignment
-
-This assignment focuses on building a responsive React application using JSX and Tailwind CSS, implementing component architecture, state management, hooks, and API integration.
 
 ## Assignment Overview
 
